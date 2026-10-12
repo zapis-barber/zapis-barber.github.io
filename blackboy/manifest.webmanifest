@@ -1,0 +1,39 @@
+{
+  "name": "Blackboy",
+  "short_name": "Blackboy",
+  "description": "Онлайн-запись: Blackboy",
+  "lang": "ru",
+  "id": "/blackboy/",
+  "start_url": "/blackboy/",
+  "scope": "/blackboy",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/blackboy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blackboy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/blackboy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blackboy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

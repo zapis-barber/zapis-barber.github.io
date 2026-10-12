@@ -1,0 +1,39 @@
+{
+  "name": "Эпицентер",
+  "short_name": "Эпицентер",
+  "description": "Онлайн-запись: Эпицентер",
+  "lang": "ru",
+  "id": "/epicenter/",
+  "start_url": "/epicenter/",
+  "scope": "/epicenter",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/epicenter/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/epicenter/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/epicenter/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/epicenter/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

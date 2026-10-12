@@ -1,0 +1,39 @@
+{
+  "name": "Barber Baza",
+  "short_name": "Barber Baza",
+  "description": "Онлайн-запись: Barber Baza",
+  "lang": "ru",
+  "id": "/barber-baza/",
+  "start_url": "/barber-baza/",
+  "scope": "/barber-baza",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/barber-baza/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-baza/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/barber-baza/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-baza/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

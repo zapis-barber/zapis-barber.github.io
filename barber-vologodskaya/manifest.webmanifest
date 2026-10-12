@@ -1,0 +1,39 @@
+{
+  "name": "Барбершоп",
+  "short_name": "Барбершоп",
+  "description": "Онлайн-запись: Барбершоп",
+  "lang": "ru",
+  "id": "/barber-vologodskaya/",
+  "start_url": "/barber-vologodskaya/",
+  "scope": "/barber-vologodskaya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/barber-vologodskaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-vologodskaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/barber-vologodskaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-vologodskaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

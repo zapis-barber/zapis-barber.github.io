@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <!-- Временная иллюстрация для образца: светлый зал с зеркалом-аркой и креслом. Замените фотографией: положите hero.jpg в эту папку и укажите его в tenant.json. -->
+  <defs>
+    <linearGradient id="ceil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf9"/><stop offset="1" stop-color="#fff3e2"/></linearGradient>
+    <linearGradient id="backwall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff4e4"/><stop offset="1" stop-color="#ffe6cb"/></linearGradient>
+    <linearGradient id="sideL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f6d2ab"/><stop offset="1" stop-color="#fbe2c6"/></linearGradient>
+    <linearGradient id="sideR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#f6d2ab"/><stop offset="1" stop-color="#fbe2c6"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="706" x2="0" y2="1000" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#f1cda6"/><stop offset="0.4" stop-color="#ecc195"/><stop offset="1" stop-color="#e6b585"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="140" x2="0" y2="610" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#fff5e9"/><stop offset="1" stop-color="#ffe3c4"/></linearGradient>
+    <linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#e6f6f1" stop-opacity="0.2"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="1" stop-color="#e6f6f1" stop-opacity="0.2"/></linearGradient>
+    <linearGradient id="tube" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7a4a22" stop-opacity="0.32"/><stop offset="0.3" stop-color="#fff" stop-opacity="0.5"/><stop offset="0.5" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#7a4a22" stop-opacity="0.36"/></linearGradient>
+    <linearGradient id="pot" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#c9542f"/><stop offset="0.4" stop-color="#ee7a52"/><stop offset="1" stop-color="#b84a28"/></linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d79a62"/><stop offset="1" stop-color="#b9783f"/></linearGradient>
+    <linearGradient id="fade" x1="0" y1="706" x2="0" y2="1000" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff" stop-opacity="0.55"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.2"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="floorMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1600" height="1000"><rect x="0" y="706" width="1600" height="294" fill="url(#fade)"/></mask>
+    <radialGradient id="haze" cx="800" cy="350" r="620" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#ffffff" stop-opacity="0.75"/><stop offset="0.5" stop-color="#fff3e2" stop-opacity="0.25"/><stop offset="1" stop-color="#fff3e2" stop-opacity="0"/></radialGradient>
+    <filter id="soft" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="6"/></filter>
+    <filter id="wide" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="wet" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="4 10"/></filter>
+    <filter id="shade" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="14"/></filter>
+    <clipPath id="archClip"><path d="M610 610V330A190 190 0 0 1 990 330V610Z"/></clipPath>
+    <clipPath id="pole432"><rect x="412" y="300" width="40" height="230" rx="4"/></clipPath><clipPath id="pole1168"><rect x="1148" y="300" width="40" height="230" rx="4"/></clipPath>
+    
+    <linearGradient id="steelH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8f8983"/><stop offset="0.3" stop-color="#f1eeea"/><stop offset="0.46" stop-color="#ffffff"/><stop offset="0.64" stop-color="#bdb6af"/><stop offset="1" stop-color="#7c756f"/></linearGradient>
+    <linearGradient id="steelV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="0.4" stop-color="#dcd6cf"/><stop offset="0.75" stop-color="#a8a099"/><stop offset="1" stop-color="#8a827b"/></linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9a6a1c"/><stop offset="0.28" stop-color="#f3cd82"/><stop offset="0.44" stop-color="#fff4d3"/><stop offset="0.64" stop-color="#d59f3c"/><stop offset="1" stop-color="#8a5c16"/></linearGradient>
+    <linearGradient id="leather" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a9d8ca"/><stop offset="0.16" stop-color="#74b9a6"/><stop offset="0.6" stop-color="#4f9886"/><stop offset="1" stop-color="#3a7a6a"/></linearGradient>
+    <g id="lights">
+      <path d="M610 610V330A190 190 0 0 1 990 330V610" fill="none" stroke-width="9" stroke-linejoin="round"/>
+      <rect x="534" y="250" width="12" height="310" rx="6" stroke="none"/>
+      <rect x="1054" y="250" width="12" height="310" rx="6" stroke="none"/>
+    </g>
+  </defs>
+
+  <rect width="1600" height="1000" fill="#fff3e2"/>
+  <polygon points="-40,-219.1 1640,-219.1 1240,90 360,90" fill="url(#ceil)"/>
+  <polygon points="-40,-219.1 360,90 360,706 -40,956.9" fill="url(#sideL)"/>
+  <polygon points="1640,-219.1 1240,90 1240,706 1640,956.9" fill="url(#sideR)"/>
+  <rect x="360" y="90" width="880" height="616" fill="url(#backwall)"/>
+  <polygon points="360,706 1240,706 1640,956.9 1640,1000 -40,1000 -40,956.9" fill="url(#floor)"/>
+  <path d="M360 706L-108.7 1000M440 706L56.5 1000M520 706L221.7 1000M600 706L387 1000M680 706L552.2 1000M760 706L717.4 1000M840 706L882.6 1000M920 706L1047.8 1000M1000 706L1213 1000M1080 706L1378.3 1000M1160 706L1543.5 1000M1240 706L1708.7 1000" stroke="#a8683a" stroke-opacity="0.16" stroke-width="2"/>
+  <rect width="1600" height="1000" fill="url(#haze)"/>
+
+  <!-- Молдинг и плинтус на боковых стенах, плинтус у задней стены. -->
+  <g fill="#ff7a1a" opacity="0.55"><polygon points="360,193 -40,-22.5 -40,-11 360,199"/><polygon points="1240,193 1640,-22.5 1640,-11 1240,199"/></g>
+  <g fill="#fffaf3"><polygon points="360,686 -40,918.7 -40,956.9 360,706"/><polygon points="1240,686 1640,918.7 1640,956.9 1240,706"/></g>
+  <rect x="360" y="688" width="880" height="18" fill="#fffaf3"/>
+
+  <!-- Зеркало в оранжевой раме и две лампы по его сторонам. -->
+  <use href="#lights" fill="#ff7a1a" stroke="#ff7a1a" opacity="0.45" filter="url(#wide)"/>
+  <path d="M610 610V330A190 190 0 0 1 990 330V610Z" fill="url(#glass)"/>
+  <g clip-path="url(#archClip)" fill="#ffffff">
+    <polygon points="640,140 720,140 560,620 480,620" opacity="0.8"/>
+    <polygon points="770,140 800,140 640,620 610,620" opacity="0.7"/>
+    <polygon points="980,140 1040,140 880,620 820,620" opacity="0.55"/>
+  </g>
+  <use href="#lights" fill="#ffb061" stroke="#ff7a1a"/>
+  <path d="M610 610V330A190 190 0 0 1 990 330V610" fill="none" stroke="#ffd9b3" stroke-width="2.4" transform="translate(0 -1)"/>
+  <rect x="537" y="256" width="6" height="298" rx="3" fill="#fff8ec"/>
+  <rect x="1057" y="256" width="6" height="298" rx="3" fill="#fff8ec"/>
+
+  
+      <g clip-path="url(#pole432)">
+        <rect x="412" y="300" width="40" height="230" fill="#fffdf9"/>
+        <polygon points="412,290 452,244 452,266 412,312" fill="#f2b544"/><polygon points="412,346 452,300 452,322 412,368" fill="#ff7a1a"/><polygon points="412,402 452,356 452,378 412,424" fill="#f2b544"/><polygon points="412,458 452,412 452,434 412,480" fill="#ff7a1a"/><polygon points="412,514 452,468 452,490 412,536" fill="#f2b544"/><polygon points="412,570 452,524 452,546 412,592" fill="#ff7a1a"/><polygon points="412,626 452,580 452,602 412,648" fill="#f2b544"/>
+        <rect x="412" y="300" width="40" height="230" fill="url(#tube)"/>
+      </g>
+      <rect x="407" y="280" width="50" height="22" rx="6" fill="url(#brass)"/>
+      <rect x="407" y="528" width="50" height="22" rx="6" fill="url(#brass)"/>
+      <circle cx="432" cy="270" r="13" fill="url(#brass)"/>
+      <g clip-path="url(#pole1168)">
+        <rect x="1148" y="300" width="40" height="230" fill="#fffdf9"/>
+        <polygon points="1148,290 1188,244 1188,266 1148,312" fill="#f2b544"/><polygon points="1148,346 1188,300 1188,322 1148,368" fill="#ff7a1a"/><polygon points="1148,402 1188,356 1188,378 1148,424" fill="#f2b544"/><polygon points="1148,458 1188,412 1188,434 1148,480" fill="#ff7a1a"/><polygon points="1148,514 1188,468 1188,490 1148,536" fill="#f2b544"/><polygon points="1148,570 1188,524 1188,546 1148,592" fill="#ff7a1a"/><polygon points="1148,626 1188,580 1188,602 1148,648" fill="#f2b544"/>
+        <rect x="1148" y="300" width="40" height="230" fill="url(#tube)"/>
+      </g>
+      <rect x="1143" y="280" width="50" height="22" rx="6" fill="url(#brass)"/>
+      <rect x="1143" y="528" width="50" height="22" rx="6" fill="url(#brass)"/>
+      <circle cx="1168" cy="270" r="13" fill="url(#brass)"/>
+
+  <!-- Полка под зеркалом. -->
+  <rect x="548" y="612" width="504" height="14" rx="3" fill="url(#wood)"/>
+  <path d="M550 613H1050" stroke="#f3c79a" stroke-width="1.6"/>
+  <rect x="572" y="566" width="22" height="46" rx="5" fill="#f2b544" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="579" y="557" width="8" height="10" rx="2" fill="#6b4226"/><rect x="575" y="571" width="3" height="34" rx="1.5" fill="#fff" opacity="0.6"/><rect x="602" y="550" width="18" height="62" rx="5" fill="#f2b544" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="607" y="541" width="8" height="10" rx="2" fill="#6b4226"/><rect x="605" y="555" width="3" height="50" rx="1.5" fill="#fff" opacity="0.6"/><rect x="628" y="574" width="26" height="38" rx="5" fill="#ffffff" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="637" y="565" width="8" height="10" rx="2" fill="#6b4226"/><rect x="631" y="579" width="3" height="26" rx="1.5" fill="#fff" opacity="0.6"/><rect x="662" y="558" width="16" height="54" rx="5" fill="#e2603a" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="666" y="549" width="8" height="10" rx="2" fill="#6b4226"/><rect x="665" y="563" width="3" height="42" rx="1.5" fill="#fff" opacity="0.6"/><rect x="922" y="554" width="18" height="58" rx="5" fill="#f7c9a3" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="927" y="545" width="8" height="10" rx="2" fill="#6b4226"/><rect x="925" y="559" width="3" height="46" rx="1.5" fill="#fff" opacity="0.6"/><rect x="948" y="572" width="24" height="40" rx="5" fill="#3f8f84" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="956" y="563" width="8" height="10" rx="2" fill="#6b4226"/><rect x="951" y="577" width="3" height="28" rx="1.5" fill="#fff" opacity="0.6"/><rect x="982" y="546" width="16" height="66" rx="5" fill="#ffd98a" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="986" y="537" width="8" height="10" rx="2" fill="#6b4226"/><rect x="985" y="551" width="3" height="54" rx="1.5" fill="#fff" opacity="0.6"/><rect x="1006" y="568" width="22" height="44" rx="5" fill="#ffffff" stroke="#7a4a22" stroke-opacity="0.18"/><rect x="1013" y="559" width="8" height="10" rx="2" fill="#6b4226"/><rect x="1009" y="573" width="3" height="32" rx="1.5" fill="#fff" opacity="0.6"/>
+
+  <!-- Отражение рамы в полу. -->
+  <g mask="url(#floorMask)">
+    <g transform="translate(0 1412) scale(1 -1)" filter="url(#wet)" opacity="0.5">
+      <use href="#lights" fill="#ffb061" stroke="#ff7a1a"/>
+    </g>
+  </g>
+
+  
+      <ellipse cx="1098" cy="712" rx="56" ry="9" fill="#8a4a14" opacity="0.28" filter="url(#soft)"/>
+      <ellipse cx="1064" cy="570" rx="20" ry="62" fill="#3f8566" transform="rotate(-28 1064 570)"/><ellipse cx="1128" cy="566" rx="20" ry="66" fill="#4f9d78" transform="rotate(24 1128 566)"/><ellipse cx="1092" cy="542" rx="19" ry="74" fill="#6bb38d" transform="rotate(-4 1092 542)"/><ellipse cx="1040" cy="606" rx="16" ry="46" fill="#4f9d78" transform="rotate(-58 1040 606)"/><ellipse cx="1154" cy="602" rx="16" ry="48" fill="#3f8566" transform="rotate(54 1154 602)"/><ellipse cx="1112" cy="588" rx="15" ry="44" fill="#7cc09b" transform="rotate(12 1112 588)"/>
+      <path d="M1062 640H1134L1124 708H1072Z" fill="url(#pot)"/>
+      <rect x="1056" y="632" width="84" height="14" rx="5" fill="#e2603a"/>
+  <g>
+      <ellipse cx="800" cy="798" rx="220" ry="26" fill="#8a4a14" opacity="0.42" filter="url(#shade)"/>
+      <ellipse cx="800" cy="784" rx="130" ry="24" fill="url(#steelH)"/>
+      <ellipse cx="800" cy="778" rx="130" ry="22" fill="#d9d3cc"/>
+      <ellipse cx="800" cy="776" rx="128" ry="20" fill="none" stroke="#fff" stroke-opacity="0.9" stroke-width="1.6"/>
+      <rect x="780" y="676" width="40" height="100" fill="url(#steelH)"/>
+      <ellipse cx="800" cy="774" rx="46" ry="9" fill="url(#steelH)"/>
+      <path d="M790 694L742 732M810 694L858 732" stroke="url(#steelV)" stroke-width="9" stroke-linecap="round"/>
+      <rect x="714" y="726" width="172" height="17" rx="8" fill="url(#steelV)"/>
+      <rect x="704" y="656" width="192" height="24" rx="8" fill="#235446"/>
+      
+      <rect x="618" y="566" width="14" height="78" rx="5" fill="url(#steelH)"/>
+      <rect x="590" y="538" width="64" height="32" rx="15" fill="url(#leather)"/>
+      <path d="M604 541H640" stroke="#e6f6f1" stroke-opacity="0.9" stroke-width="2.2" stroke-linecap="round"/>
+      <rect x="968" y="566" width="14" height="78" rx="5" fill="url(#steelH)"/>
+      <rect x="946" y="538" width="64" height="32" rx="15" fill="url(#leather)"/>
+      <path d="M960 541H996" stroke="#e6f6f1" stroke-opacity="0.9" stroke-width="2.2" stroke-linecap="round"/>
+      <rect x="640" y="598" width="320" height="64" rx="26" fill="url(#leather)"/>
+      <path d="M668 601H932" stroke="#e6f6f1" stroke-opacity="0.75" stroke-width="2" stroke-linecap="round"/>
+      <path d="M710 378H890Q926 380 930 416L938 560Q940 604 900 604H700Q660 604 662 560L670 416Q674 380 710 378Z" fill="url(#leather)"/>
+      <path d="M752 394V598" stroke="#235446" stroke-opacity="0.45" stroke-width="2.4"/><path d="M755 398V594" stroke="#e6f6f1" stroke-opacity="0.45" stroke-width="1.4"/><path d="M800 394V598" stroke="#235446" stroke-opacity="0.45" stroke-width="2.4"/><path d="M803 398V594" stroke="#e6f6f1" stroke-opacity="0.45" stroke-width="1.4"/><path d="M848 394V598" stroke="#235446" stroke-opacity="0.45" stroke-width="2.4"/><path d="M851 398V594" stroke="#e6f6f1" stroke-opacity="0.45" stroke-width="1.4"/>
+      <path d="M674 416Q678 382 712 380H888Q922 382 926 416" fill="none" stroke="url(#rim)" stroke-width="3" stroke-linecap="round"/>
+      <rect x="768" y="352" width="9" height="30" fill="url(#steelH)"/>
+      <rect x="823" y="352" width="9" height="30" fill="url(#steelH)"/>
+      <rect x="736" y="300" width="128" height="58" rx="25" fill="url(#leather)"/>
+      <path d="M760 303H840" stroke="url(#rim)" stroke-width="3" stroke-linecap="round"/></g>
+</svg>

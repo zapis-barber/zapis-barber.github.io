@@ -1,0 +1,39 @@
+{
+  "name": "Barber Bro",
+  "short_name": "Barber Bro",
+  "description": "Онлайн-запись: Barber Bro",
+  "lang": "ru",
+  "id": "/barber-bro/",
+  "start_url": "/barber-bro/",
+  "scope": "/barber-bro",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/barber-bro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-bro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/barber-bro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-bro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

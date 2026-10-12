@@ -1,0 +1,39 @@
+{
+  "name": "1 One Мастер",
+  "short_name": "1 One Мастер",
+  "description": "Онлайн-запись: 1 One Мастер",
+  "lang": "ru",
+  "id": "/1-one-master/",
+  "start_url": "/1-one-master/",
+  "scope": "/1-one-master",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/1-one-master/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/1-one-master/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/1-one-master/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/1-one-master/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <!-- Временная картинка для образца: опасная бритва для контуров и бороды. Замените фотографией работы. -->
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.38" r="0.9"><stop offset="0" stop-color="#fffaf3"/><stop offset="0.55" stop-color="#ffedd8"/><stop offset="1" stop-color="#f8d3ab"/></radialGradient>
+    <filter id="soft" x="-200" y="-200" width="1200" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="wide" x="-200" y="-200" width="1200" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="34"/></filter>
+    <!-- Тень предмета: его очертания, залитые тёплым коричневым и размытые. -->
+    <filter id="drop" x="-600" y="-600" width="1400" height="1400" filterUnits="userSpaceOnUse"><feColorMatrix values="0 0 0 0 0.5  0 0 0 0 0.26  0 0 0 0 0.06  0 0 0 0.42 0"/><feGaussianBlur stdDeviation="14"/></filter>
+    
+    <linearGradient id="steelH" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8f8983"/><stop offset="0.3" stop-color="#f1eeea"/><stop offset="0.46" stop-color="#ffffff"/><stop offset="0.64" stop-color="#bdb6af"/><stop offset="1" stop-color="#7c756f"/></linearGradient>
+    <linearGradient id="steelV" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="0.4" stop-color="#dcd6cf"/><stop offset="0.75" stop-color="#a8a099"/><stop offset="1" stop-color="#8a827b"/></linearGradient>
+    <linearGradient id="brass" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9a6a1c"/><stop offset="0.28" stop-color="#f3cd82"/><stop offset="0.44" stop-color="#fff4d3"/><stop offset="0.64" stop-color="#d59f3c"/><stop offset="1" stop-color="#8a5c16"/></linearGradient>
+    <linearGradient id="leather" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a9d8ca"/><stop offset="0.16" stop-color="#74b9a6"/><stop offset="0.6" stop-color="#4f9886"/><stop offset="1" stop-color="#3a7a6a"/></linearGradient>
+    <linearGradient id="blade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a59d95"/><stop offset="0.22" stop-color="#ffffff"/><stop offset="0.5" stop-color="#cfc8c1"/><stop offset="0.8" stop-color="#ffffff"/><stop offset="1" stop-color="#b9b1a9"/></linearGradient>
+    <linearGradient id="scale" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f39a52"/><stop offset="0.25" stop-color="#d06a22"/><stop offset="1" stop-color="#8f4212"/></linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  
+  <path d="M120 150L120 850" fill="none" stroke="#ff7a1a" stroke-width="25" stroke-linecap="round" opacity="0.28" filter="url(#wide)"/>
+  <path d="M120 150L120 850" fill="none" stroke="#ff7a1a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M120 150L120 850" fill="none" stroke="#ffd9b3" stroke-width="1.6666666666666667" stroke-linecap="round" transform="translate(0 -1)"/>
+  <circle cx="610" cy="250" r="120" fill="#f2b544" opacity="0.16"/>
+  <circle cx="660" cy="800" r="90" fill="#9a5a2c" opacity="0.14"/>
+  <g transform="translate(330 610)">
+    <g filter="url(#drop)" transform="translate(16 26)">
+      <g transform="rotate(34)"><rect x="-40" y="-34" width="470" height="68" rx="34"/></g>
+      <path d="M-30 -18H70L96 -62H400Q448 -58 452 -10V40H96L70 18H-30Z" transform="rotate(-38)"/>
+    </g>
+    <g transform="rotate(34)">
+      <g fill="url(#scale)"><rect x="-40" y="-34" width="470" height="68" rx="34"/></g>
+      <path d="M-8 -30H396" stroke="#ffe3c7" stroke-opacity="0.85" stroke-width="2.4" stroke-linecap="round"/>
+      <circle cx="388" cy="0" r="8" fill="url(#brass)"/>
+    </g>
+    <g transform="rotate(-38)">
+      <path d="M-30 -18H70L96 -62H400Q448 -58 452 -10V40H96L70 18H-30Z" fill="url(#blade)" stroke="#8a827b" stroke-opacity="0.5" stroke-width="1"/>
+      <path d="M96 40H452" stroke="#ffffff" stroke-width="2.6" stroke-linecap="round"/>
+      <path d="M100 -44H410" stroke="#6f6862" stroke-opacity="0.3" stroke-width="10" stroke-linecap="round"/>
+    </g>
+    <circle r="13" fill="url(#brass)" stroke="#8a5c16" stroke-width="1.6"/>
+  </g>
+</svg>

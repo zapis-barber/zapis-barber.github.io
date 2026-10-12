@@ -1,0 +1,39 @@
+{
+  "name": "Мужская парикмахерская",
+  "short_name": "Стрижки",
+  "description": "Онлайн-запись: Мужская парикмахерская",
+  "lang": "ru",
+  "id": "/parikmaherskaya-rudneva/",
+  "start_url": "/parikmaherskaya-rudneva/",
+  "scope": "/parikmaherskaya-rudneva",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/parikmaherskaya-rudneva/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/parikmaherskaya-rudneva/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/parikmaherskaya-rudneva/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/parikmaherskaya-rudneva/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

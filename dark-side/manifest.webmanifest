@@ -1,0 +1,39 @@
+{
+  "name": "Dark side",
+  "short_name": "Dark side",
+  "description": "Онлайн-запись: Dark side",
+  "lang": "ru",
+  "id": "/dark-side/",
+  "start_url": "/dark-side/",
+  "scope": "/dark-side",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/dark-side/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dark-side/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/dark-side/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dark-side/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
