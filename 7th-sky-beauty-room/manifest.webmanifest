@@ -1,0 +1,39 @@
+{
+  "name": "7th Sky beauty room",
+  "short_name": "7th",
+  "description": "Онлайн-запись: 7th Sky beauty room",
+  "lang": "ru",
+  "id": "/7th-sky-beauty-room/",
+  "start_url": "/7th-sky-beauty-room/",
+  "scope": "/7th-sky-beauty-room",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/7th-sky-beauty-room/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/7th-sky-beauty-room/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/7th-sky-beauty-room/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/7th-sky-beauty-room/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

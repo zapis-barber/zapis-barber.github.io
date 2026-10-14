@@ -1,0 +1,39 @@
+{
+  "name": "Adam i Eva style",
+  "short_name": "Adam",
+  "description": "Онлайн-запись: Adam i Eva style",
+  "lang": "ru",
+  "id": "/adam-i-eva-style/",
+  "start_url": "/adam-i-eva-style/",
+  "scope": "/adam-i-eva-style",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/adam-i-eva-style/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/adam-i-eva-style/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/adam-i-eva-style/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/adam-i-eva-style/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

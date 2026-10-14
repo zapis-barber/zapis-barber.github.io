@@ -1,0 +1,39 @@
+{
+  "name": "#Настиле",
+  "short_name": "#Настиле",
+  "description": "Онлайн-запись: #Настиле",
+  "lang": "ru",
+  "id": "/nastile-omsk/",
+  "start_url": "/nastile-omsk/",
+  "scope": "/nastile-omsk",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/nastile-omsk/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nastile-omsk/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/nastile-omsk/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nastile-omsk/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

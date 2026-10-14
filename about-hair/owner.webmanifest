@@ -1,0 +1,39 @@
+{
+  "name": "About hair — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: About hair",
+  "lang": "ru",
+  "id": "/about-hair/owner",
+  "start_url": "/about-hair/owner",
+  "scope": "/about-hair",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/about-hair/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/about-hair/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/about-hair/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/about-hair/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Alena Volos",
+  "short_name": "Alena Volos",
+  "description": "Онлайн-запись: Alena Volos",
+  "lang": "ru",
+  "id": "/alena-volos/",
+  "start_url": "/alena-volos/",
+  "scope": "/alena-volos",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/alena-volos/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alena-volos/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/alena-volos/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alena-volos/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Amore Beauty",
+  "short_name": "Amore Beauty",
+  "description": "Онлайн-запись: Amore Beauty",
+  "lang": "ru",
+  "id": "/amore-beauty/",
+  "start_url": "/amore-beauty/",
+  "scope": "/amore-beauty",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/amore-beauty/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/amore-beauty/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/amore-beauty/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/amore-beauty/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

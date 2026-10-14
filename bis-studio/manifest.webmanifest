@@ -1,0 +1,39 @@
+{
+  "name": "Bis_Studio",
+  "short_name": "Bis_Studio",
+  "description": "Онлайн-запись: Bis_Studio",
+  "lang": "ru",
+  "id": "/bis-studio/",
+  "start_url": "/bis-studio/",
+  "scope": "/bis-studio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/bis-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bis-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bis-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bis-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

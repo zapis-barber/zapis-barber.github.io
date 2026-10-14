@@ -1,0 +1,39 @@
+{
+  "name": "Azacolor",
+  "short_name": "Azacolor",
+  "description": "Онлайн-запись: Azacolor",
+  "lang": "ru",
+  "id": "/azacolor/",
+  "start_url": "/azacolor/",
+  "scope": "/azacolor",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/azacolor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/azacolor/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/azacolor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/azacolor/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

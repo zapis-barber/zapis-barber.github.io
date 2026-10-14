@@ -1,0 +1,39 @@
+{
+  "name": "7 небо — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 7 небо",
+  "lang": "ru",
+  "id": "/7-nebo/owner",
+  "start_url": "/7-nebo/owner",
+  "scope": "/7-nebo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/7-nebo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/7-nebo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/7-nebo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/7-nebo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

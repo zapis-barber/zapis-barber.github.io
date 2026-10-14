@@ -1,0 +1,39 @@
+{
+  "name": "#НаСтиле — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: #НаСтиле",
+  "lang": "ru",
+  "id": "/nastile/owner",
+  "start_url": "/nastile/owner",
+  "scope": "/nastile",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/nastile/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nastile/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/nastile/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nastile/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

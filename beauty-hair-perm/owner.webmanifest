@@ -1,0 +1,39 @@
+{
+  "name": "Beauty hair — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Beauty hair",
+  "lang": "ru",
+  "id": "/beauty-hair-perm/owner",
+  "start_url": "/beauty-hair-perm/owner",
+  "scope": "/beauty-hair-perm",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beauty-hair-perm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-hair-perm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beauty-hair-perm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-hair-perm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

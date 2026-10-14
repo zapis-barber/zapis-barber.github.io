@@ -1,0 +1,39 @@
+{
+  "name": "5 Авеню — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 5 Авеню",
+  "lang": "ru",
+  "id": "/5-avenyu/owner",
+  "start_url": "/5-avenyu/owner",
+  "scope": "/5-avenyu",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/5-avenyu/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/5-avenyu/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/5-avenyu/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/5-avenyu/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

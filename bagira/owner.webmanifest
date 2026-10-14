@@ -1,0 +1,39 @@
+{
+  "name": "Bagira — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Bagira",
+  "lang": "ru",
+  "id": "/bagira/owner",
+  "start_url": "/bagira/owner",
+  "scope": "/bagira",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/bagira/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bagira/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bagira/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bagira/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

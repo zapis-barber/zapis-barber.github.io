@@ -1,0 +1,39 @@
+{
+  "name": "Afrofeya — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Afrofeya",
+  "lang": "ru",
+  "id": "/afrofeya/owner",
+  "start_url": "/afrofeya/owner",
+  "scope": "/afrofeya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/afrofeya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrofeya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/afrofeya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrofeya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

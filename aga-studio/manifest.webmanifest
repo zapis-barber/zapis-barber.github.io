@@ -1,0 +1,39 @@
+{
+  "name": "Aga Studio",
+  "short_name": "Aga Studio",
+  "description": "Онлайн-запись: Aga Studio",
+  "lang": "ru",
+  "id": "/aga-studio/",
+  "start_url": "/aga-studio/",
+  "scope": "/aga-studio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/aga-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aga-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aga-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aga-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

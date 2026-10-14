@@ -1,0 +1,39 @@
+{
+  "name": "Beauty line",
+  "short_name": "Beauty line",
+  "description": "Онлайн-запись: Beauty line",
+  "lang": "ru",
+  "id": "/beauty-line/",
+  "start_url": "/beauty-line/",
+  "scope": "/beauty-line",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beauty-line/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-line/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beauty-line/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-line/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

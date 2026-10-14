@@ -1,0 +1,39 @@
+{
+  "name": "#Янаволосах",
+  "short_name": "#Янаволосах",
+  "description": "Онлайн-запись: #Янаволосах",
+  "lang": "ru",
+  "id": "/yanavolosah/",
+  "start_url": "/yanavolosah/",
+  "scope": "/yanavolosah",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/yanavolosah/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/yanavolosah/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/yanavolosah/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/yanavolosah/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Blizzko — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Blizzko",
+  "lang": "ru",
+  "id": "/blizzko/owner",
+  "start_url": "/blizzko/owner",
+  "scope": "/blizzko",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/blizzko/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blizzko/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/blizzko/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blizzko/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

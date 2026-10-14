@@ -1,0 +1,39 @@
+{
+  "name": "117queens — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 117queens",
+  "lang": "ru",
+  "id": "/117queens/owner",
+  "start_url": "/117queens/owner",
+  "scope": "/117queens",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/117queens/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/117queens/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/117queens/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/117queens/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

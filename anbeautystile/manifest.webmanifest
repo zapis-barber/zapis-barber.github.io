@@ -1,0 +1,39 @@
+{
+  "name": "AnBeautyStile",
+  "short_name": "AnBeautyStil",
+  "description": "Онлайн-запись: AnBeautyStile",
+  "lang": "ru",
+  "id": "/anbeautystile/",
+  "start_url": "/anbeautystile/",
+  "scope": "/anbeautystile",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/anbeautystile/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/anbeautystile/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/anbeautystile/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/anbeautystile/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

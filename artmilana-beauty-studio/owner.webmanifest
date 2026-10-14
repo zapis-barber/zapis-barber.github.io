@@ -1,0 +1,39 @@
+{
+  "name": "ARTMilana beauty studio — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: ARTMilana beauty studio",
+  "lang": "ru",
+  "id": "/artmilana-beauty-studio/owner",
+  "start_url": "/artmilana-beauty-studio/owner",
+  "scope": "/artmilana-beauty-studio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/artmilana-beauty-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/artmilana-beauty-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/artmilana-beauty-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/artmilana-beauty-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

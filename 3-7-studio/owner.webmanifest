@@ -1,0 +1,39 @@
+{
+  "name": "3/7 студио — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 3/7 студио",
+  "lang": "ru",
+  "id": "/3-7-studio/owner",
+  "start_url": "/3-7-studio/owner",
+  "scope": "/3-7-studio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/3-7-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/3-7-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/3-7-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/3-7-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

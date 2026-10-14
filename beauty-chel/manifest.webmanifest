@@ -1,0 +1,39 @@
+{
+  "name": "Beauty",
+  "short_name": "Beauty",
+  "description": "Онлайн-запись: Beauty",
+  "lang": "ru",
+  "id": "/beauty-chel/",
+  "start_url": "/beauty-chel/",
+  "scope": "/beauty-chel",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beauty-chel/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-chel/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beauty-chel/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-chel/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "By_Alina_keratina",
+  "short_name": "By_Alina_ker",
+  "description": "Онлайн-запись: By_Alina_keratina",
+  "lang": "ru",
+  "id": "/by-alina-keratina/",
+  "start_url": "/by-alina-keratina/",
+  "scope": "/by-alina-keratina",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/by-alina-keratina/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/by-alina-keratina/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/by-alina-keratina/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/by-alina-keratina/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

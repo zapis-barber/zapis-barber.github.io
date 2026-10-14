@@ -1,0 +1,39 @@
+{
+  "name": "ArtHair studio — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: ArtHair studio",
+  "lang": "ru",
+  "id": "/arthair-studio/owner",
+  "start_url": "/arthair-studio/owner",
+  "scope": "/arthair-studio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/arthair-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/arthair-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/arthair-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/arthair-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Babor Beauty Spa — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Babor Beauty Spa",
+  "lang": "ru",
+  "id": "/babor-beauty-spa/owner",
+  "start_url": "/babor-beauty-spa/owner",
+  "scope": "/babor-beauty-spa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/babor-beauty-spa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/babor-beauty-spa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/babor-beauty-spa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/babor-beauty-spa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

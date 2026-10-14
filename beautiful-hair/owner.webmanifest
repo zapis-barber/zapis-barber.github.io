@@ -1,0 +1,39 @@
+{
+  "name": "Beautiful hair — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Beautiful hair",
+  "lang": "ru",
+  "id": "/beautiful-hair/owner",
+  "start_url": "/beautiful-hair/owner",
+  "scope": "/beautiful-hair",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beautiful-hair/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beautiful-hair/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beautiful-hair/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beautiful-hair/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

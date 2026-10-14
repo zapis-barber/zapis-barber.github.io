@@ -1,0 +1,39 @@
+{
+  "name": "Artistry — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Artistry",
+  "lang": "ru",
+  "id": "/artistry/owner",
+  "start_url": "/artistry/owner",
+  "scope": "/artistry",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/artistry/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/artistry/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/artistry/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/artistry/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

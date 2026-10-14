@@ -1,0 +1,39 @@
+{
+  "name": "#Street_Style_74 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: #Street_Style_74",
+  "lang": "ru",
+  "id": "/street-style-74/owner",
+  "start_url": "/street-style-74/owner",
+  "scope": "/street-style-74",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/street-style-74/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/street-style-74/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/street-style-74/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/street-style-74/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

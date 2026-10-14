@@ -1,0 +1,39 @@
+{
+  "name": "A-студия — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: A-студия",
+  "lang": "ru",
+  "id": "/a-studiya/owner",
+  "start_url": "/a-studiya/owner",
+  "scope": "/a-studiya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/a-studiya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a-studiya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/a-studiya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a-studiya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Anna Chechil",
+  "short_name": "Anna Chechil",
+  "description": "Онлайн-запись: Anna Chechil",
+  "lang": "ru",
+  "id": "/anna-chechil/",
+  "start_url": "/anna-chechil/",
+  "scope": "/anna-chechil",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/anna-chechil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/anna-chechil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/anna-chechil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/anna-chechil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

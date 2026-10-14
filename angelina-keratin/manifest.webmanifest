@@ -1,0 +1,39 @@
+{
+  "name": "Angelina Keratin",
+  "short_name": "Angelina",
+  "description": "Онлайн-запись: Angelina Keratin",
+  "lang": "ru",
+  "id": "/angelina-keratin/",
+  "start_url": "/angelina-keratin/",
+  "scope": "/angelina-keratin",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/angelina-keratin/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/angelina-keratin/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/angelina-keratin/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/angelina-keratin/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

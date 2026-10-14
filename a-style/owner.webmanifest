@@ -1,0 +1,39 @@
+{
+  "name": "A&Style — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: A&Style",
+  "lang": "ru",
+  "id": "/a-style/owner",
+  "start_url": "/a-style/owner",
+  "scope": "/a-style",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/a-style/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a-style/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/a-style/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a-style/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

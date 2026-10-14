@@ -1,0 +1,39 @@
+{
+  "name": "Avrora — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Avrora",
+  "lang": "ru",
+  "id": "/avrora/owner",
+  "start_url": "/avrora/owner",
+  "scope": "/avrora",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/avrora/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avrora/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avrora/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avrora/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

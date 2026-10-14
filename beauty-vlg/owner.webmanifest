@@ -1,0 +1,39 @@
+{
+  "name": "Beauty — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Beauty",
+  "lang": "ru",
+  "id": "/beauty-vlg/owner",
+  "start_url": "/beauty-vlg/owner",
+  "scope": "/beauty-vlg",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beauty-vlg/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-vlg/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beauty-vlg/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-vlg/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

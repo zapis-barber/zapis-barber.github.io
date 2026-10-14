@@ -1,0 +1,39 @@
+{
+  "name": "ArmStyle — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: ArmStyle",
+  "lang": "ru",
+  "id": "/armstyle/owner",
+  "start_url": "/armstyle/owner",
+  "scope": "/armstyle",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/armstyle/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/armstyle/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/armstyle/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/armstyle/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

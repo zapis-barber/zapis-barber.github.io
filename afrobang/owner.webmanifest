@@ -1,0 +1,39 @@
+{
+  "name": "Afrobang — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Afrobang",
+  "lang": "ru",
+  "id": "/afrobang/owner",
+  "start_url": "/afrobang/owner",
+  "scope": "/afrobang",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/afrobang/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrobang/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/afrobang/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrobang/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

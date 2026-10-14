@@ -1,0 +1,39 @@
+{
+  "name": "Aldo Coppola — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Aldo Coppola",
+  "lang": "ru",
+  "id": "/aldo-coppola/owner",
+  "start_url": "/aldo-coppola/owner",
+  "scope": "/aldo-coppola",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/aldo-coppola/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aldo-coppola/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aldo-coppola/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aldo-coppola/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Beauty house",
+  "short_name": "Beauty house",
+  "description": "Онлайн-запись: Beauty house",
+  "lang": "ru",
+  "id": "/beauty-house/",
+  "start_url": "/beauty-house/",
+  "scope": "/beauty-house",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beauty-house/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-house/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beauty-house/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-house/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

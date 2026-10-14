@@ -1,0 +1,39 @@
+{
+  "name": "A.M.Color",
+  "short_name": "A.M.Color",
+  "description": "Онлайн-запись: A.M.Color",
+  "lang": "ru",
+  "id": "/a-m-color/",
+  "start_url": "/a-m-color/",
+  "scope": "/a-m-color",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/a-m-color/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a-m-color/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/a-m-color/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a-m-color/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
