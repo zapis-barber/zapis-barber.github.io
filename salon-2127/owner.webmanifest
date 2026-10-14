@@ -1,0 +1,39 @@
+{
+  "name": "2127 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 2127",
+  "lang": "ru",
+  "id": "/salon-2127/owner",
+  "start_url": "/salon-2127/owner",
+  "scope": "/salon-2127",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/salon-2127/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/salon-2127/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/salon-2127/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/salon-2127/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

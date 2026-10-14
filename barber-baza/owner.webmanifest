@@ -1,0 +1,39 @@
+{
+  "name": "Barber Baza — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Barber Baza",
+  "lang": "ru",
+  "id": "/barber-baza/owner",
+  "start_url": "/barber-baza/owner",
+  "scope": "/barber-baza",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/barber-baza/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-baza/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/barber-baza/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-baza/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

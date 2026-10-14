@@ -1,0 +1,39 @@
+{
+  "name": "Arstudio — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Arstudio",
+  "lang": "ru",
+  "id": "/arstudio/owner",
+  "start_url": "/arstudio/owner",
+  "scope": "/arstudio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/arstudio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/arstudio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/arstudio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/arstudio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

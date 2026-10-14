@@ -1,0 +1,39 @@
+{
+  "name": "Agkuwork — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Agkuwork",
+  "lang": "ru",
+  "id": "/agkuwork/owner",
+  "start_url": "/agkuwork/owner",
+  "scope": "/agkuwork",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/agkuwork/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/agkuwork/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/agkuwork/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/agkuwork/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

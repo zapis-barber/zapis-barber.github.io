@@ -1,0 +1,39 @@
+{
+  "name": "Men House — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Men House",
+  "lang": "ru",
+  "id": "/men-house/owner",
+  "start_url": "/men-house/owner",
+  "scope": "/men-house",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/men-house/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/men-house/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/men-house/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/men-house/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Men’s Sector — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Men’s Sector",
+  "lang": "ru",
+  "id": "/mens-sector/owner",
+  "start_url": "/mens-sector/owner",
+  "scope": "/mens-sector",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/mens-sector/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mens-sector/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/mens-sector/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mens-sector/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Blackboy — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Blackboy",
+  "lang": "ru",
+  "id": "/blackboy/owner",
+  "start_url": "/blackboy/owner",
+  "scope": "/blackboy",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/blackboy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blackboy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/blackboy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blackboy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

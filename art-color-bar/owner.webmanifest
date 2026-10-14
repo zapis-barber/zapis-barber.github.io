@@ -1,0 +1,39 @@
+{
+  "name": "Art Color Bar — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Art Color Bar",
+  "lang": "ru",
+  "id": "/art-color-bar/owner",
+  "start_url": "/art-color-bar/owner",
+  "scope": "/art-color-bar",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/art-color-bar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-color-bar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/art-color-bar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-color-bar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

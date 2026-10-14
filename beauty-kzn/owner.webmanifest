@@ -1,0 +1,39 @@
+{
+  "name": "Beauty — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Beauty",
+  "lang": "ru",
+  "id": "/beauty-kzn/owner",
+  "start_url": "/beauty-kzn/owner",
+  "scope": "/beauty-kzn",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beauty-kzn/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-kzn/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beauty-kzn/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beauty-kzn/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

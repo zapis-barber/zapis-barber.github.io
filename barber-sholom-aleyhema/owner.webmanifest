@@ -1,0 +1,39 @@
+{
+  "name": "Барбершоп — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Барбершоп",
+  "lang": "ru",
+  "id": "/barber-sholom-aleyhema/owner",
+  "start_url": "/barber-sholom-aleyhema/owner",
+  "scope": "/barber-sholom-aleyhema",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/barber-sholom-aleyhema/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-sholom-aleyhema/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/barber-sholom-aleyhema/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/barber-sholom-aleyhema/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

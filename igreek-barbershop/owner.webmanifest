@@ -1,0 +1,39 @@
+{
+  "name": "Igreek_barbershop — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Igreek_barbershop",
+  "lang": "ru",
+  "id": "/igreek-barbershop/owner",
+  "start_url": "/igreek-barbershop/owner",
+  "scope": "/igreek-barbershop",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/igreek-barbershop/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/igreek-barbershop/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/igreek-barbershop/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/igreek-barbershop/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

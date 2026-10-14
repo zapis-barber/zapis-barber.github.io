@@ -1,0 +1,39 @@
+{
+  "name": "Mr.Lion — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Mr.Lion",
+  "lang": "ru",
+  "id": "/mr-lion/owner",
+  "start_url": "/mr-lion/owner",
+  "scope": "/mr-lion",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/mr-lion/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mr-lion/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/mr-lion/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mr-lion/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

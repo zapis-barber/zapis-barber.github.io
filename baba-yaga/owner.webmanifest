@@ -1,0 +1,39 @@
+{
+  "name": "Baba Yaga — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Baba Yaga",
+  "lang": "ru",
+  "id": "/baba-yaga/owner",
+  "start_url": "/baba-yaga/owner",
+  "scope": "/baba-yaga",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/baba-yaga/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/baba-yaga/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/baba-yaga/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/baba-yaga/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

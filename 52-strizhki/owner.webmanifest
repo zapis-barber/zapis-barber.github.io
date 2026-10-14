@@ -1,0 +1,39 @@
+{
+  "name": "52 стрижки — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 52 стрижки",
+  "lang": "ru",
+  "id": "/52-strizhki/owner",
+  "start_url": "/52-strizhki/owner",
+  "scope": "/52-strizhki",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/52-strizhki/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/52-strizhki/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/52-strizhki/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/52-strizhki/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

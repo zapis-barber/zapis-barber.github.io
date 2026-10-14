@@ -1,0 +1,39 @@
+{
+  "name": "B & Co — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: B & Co",
+  "lang": "ru",
+  "id": "/b-co/owner",
+  "start_url": "/b-co/owner",
+  "scope": "/b-co",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/b-co/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/b-co/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/b-co/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/b-co/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

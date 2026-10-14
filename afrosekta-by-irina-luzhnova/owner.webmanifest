@@ -1,0 +1,39 @@
+{
+  "name": "Afrosekta by Irina Luzhnova — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Afrosekta by Irina Luzhnova",
+  "lang": "ru",
+  "id": "/afrosekta-by-irina-luzhnova/owner",
+  "start_url": "/afrosekta-by-irina-luzhnova/owner",
+  "scope": "/afrosekta-by-irina-luzhnova",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/afrosekta-by-irina-luzhnova/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrosekta-by-irina-luzhnova/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/afrosekta-by-irina-luzhnova/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrosekta-by-irina-luzhnova/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

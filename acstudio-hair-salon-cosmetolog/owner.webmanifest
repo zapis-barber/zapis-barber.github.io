@@ -1,0 +1,39 @@
+{
+  "name": "Acstudio hair salon&cosmetology — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Acstudio hair salon&cosmetology",
+  "lang": "ru",
+  "id": "/acstudio-hair-salon-cosmetolog/owner",
+  "start_url": "/acstudio-hair-salon-cosmetolog/owner",
+  "scope": "/acstudio-hair-salon-cosmetolog",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/acstudio-hair-salon-cosmetolog/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/acstudio-hair-salon-cosmetolog/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/acstudio-hair-salon-cosmetolog/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/acstudio-hair-salon-cosmetolog/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
