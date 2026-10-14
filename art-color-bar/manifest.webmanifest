@@ -1,0 +1,39 @@
+{
+  "name": "Art Color Bar",
+  "short_name": "Art",
+  "description": "Онлайн-запись: Art Color Bar",
+  "lang": "ru",
+  "id": "/art-color-bar/",
+  "start_url": "/art-color-bar/",
+  "scope": "/art-color-bar",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/art-color-bar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-color-bar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/art-color-bar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-color-bar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

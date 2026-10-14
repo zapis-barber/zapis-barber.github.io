@@ -1,0 +1,39 @@
+{
+  "name": "4 сезона",
+  "short_name": "4 сезона",
+  "description": "Онлайн-запись: 4 сезона",
+  "lang": "ru",
+  "id": "/4-sezona/",
+  "start_url": "/4-sezona/",
+  "scope": "/4-sezona",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/4-sezona/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/4-sezona/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/4-sezona/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/4-sezona/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

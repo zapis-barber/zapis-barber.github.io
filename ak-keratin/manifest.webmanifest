@@ -1,0 +1,39 @@
+{
+  "name": "Ak keratin",
+  "short_name": "Ak keratin",
+  "description": "Онлайн-запись: Ak keratin",
+  "lang": "ru",
+  "id": "/ak-keratin/",
+  "start_url": "/ak-keratin/",
+  "scope": "/ak-keratin",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/ak-keratin/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ak-keratin/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ak-keratin/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ak-keratin/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

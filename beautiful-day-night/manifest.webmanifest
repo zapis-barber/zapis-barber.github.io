@@ -1,0 +1,39 @@
+{
+  "name": "Beautiful day&night",
+  "short_name": "Beautiful",
+  "description": "Онлайн-запись: Beautiful day&night",
+  "lang": "ru",
+  "id": "/beautiful-day-night/",
+  "start_url": "/beautiful-day-night/",
+  "scope": "/beautiful-day-night",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/beautiful-day-night/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beautiful-day-night/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beautiful-day-night/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beautiful-day-night/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

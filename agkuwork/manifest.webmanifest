@@ -1,0 +1,39 @@
+{
+  "name": "Agkuwork",
+  "short_name": "Agkuwork",
+  "description": "Онлайн-запись: Agkuwork",
+  "lang": "ru",
+  "id": "/agkuwork/",
+  "start_url": "/agkuwork/",
+  "scope": "/agkuwork",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/agkuwork/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/agkuwork/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/agkuwork/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/agkuwork/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

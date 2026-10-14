@@ -1,0 +1,39 @@
+{
+  "name": "Afrotherapy",
+  "short_name": "Afrotherapy",
+  "description": "Онлайн-запись: Afrotherapy",
+  "lang": "ru",
+  "id": "/afrotherapy/",
+  "start_url": "/afrotherapy/",
+  "scope": "/afrotherapy",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/afrotherapy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrotherapy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/afrotherapy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrotherapy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

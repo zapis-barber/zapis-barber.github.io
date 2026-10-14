@@ -1,0 +1,39 @@
+{
+  "name": "Aрт beauty",
+  "short_name": "Aрт beauty",
+  "description": "Онлайн-запись: Aрт beauty",
+  "lang": "ru",
+  "id": "/art-beauty/",
+  "start_url": "/art-beauty/",
+  "scope": "/art-beauty",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/art-beauty/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-beauty/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/art-beauty/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-beauty/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

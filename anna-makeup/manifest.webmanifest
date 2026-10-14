@@ -1,0 +1,39 @@
+{
+  "name": "Anna Makeup",
+  "short_name": "Anna Makeup",
+  "description": "Онлайн-запись: Anna Makeup",
+  "lang": "ru",
+  "id": "/anna-makeup/",
+  "start_url": "/anna-makeup/",
+  "scope": "/anna-makeup",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/anna-makeup/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/anna-makeup/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/anna-makeup/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/anna-makeup/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

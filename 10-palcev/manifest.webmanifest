@@ -1,0 +1,39 @@
+{
+  "name": "10 пальцев",
+  "short_name": "10 пальцев",
+  "description": "Онлайн-запись: 10 пальцев",
+  "lang": "ru",
+  "id": "/10-palcev/",
+  "start_url": "/10-palcev/",
+  "scope": "/10-palcev",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/10-palcev/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/10-palcev/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/10-palcev/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/10-palcev/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

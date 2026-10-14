@@ -1,0 +1,39 @@
+{
+  "name": "#Про_студия",
+  "short_name": "#Про_студия",
+  "description": "Онлайн-запись: #Про_студия",
+  "lang": "ru",
+  "id": "/pro-studiya/",
+  "start_url": "/pro-studiya/",
+  "scope": "/pro-studiya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/pro-studiya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pro-studiya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/pro-studiya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pro-studiya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

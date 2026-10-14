@@ -1,0 +1,39 @@
+{
+  "name": "Afrova_my",
+  "short_name": "Afrova_my",
+  "description": "Онлайн-запись: Afrova_my",
+  "lang": "ru",
+  "id": "/afrova-my/",
+  "start_url": "/afrova-my/",
+  "scope": "/afrova-my",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/afrova-my/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrova-my/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/afrova-my/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/afrova-my/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

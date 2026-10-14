@@ -1,0 +1,39 @@
+{
+  "name": "1618 Авеню",
+  "short_name": "1618 Авеню",
+  "description": "Онлайн-запись: 1618 Авеню",
+  "lang": "ru",
+  "id": "/1618-avenyu/",
+  "start_url": "/1618-avenyu/",
+  "scope": "/1618-avenyu",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7ee",
+  "theme_color": "#fff7ee",
+  "icons": [
+    {
+      "src": "/1618-avenyu/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/1618-avenyu/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/1618-avenyu/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/1618-avenyu/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
